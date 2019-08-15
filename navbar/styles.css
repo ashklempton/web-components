@@ -88,6 +88,7 @@ a {
   height: 2px;
   display: block;
   display: none;
+  cursor:pointer
 }
 /* bar 1 */
 .collapsible-bar-1 {
@@ -145,6 +146,8 @@ a {
   right: 0;
   margin-right: 3rem;
   margin-top: 2rem;
+  display:block;
+  cursor:pointer;
 }
 /* ===== overlay and collapsible classes end ====== */
 
